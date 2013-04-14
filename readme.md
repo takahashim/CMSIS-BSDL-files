@@ -23,4 +23,4 @@ So I repackage files in above directories.
 
 ## Original files
 
-Original file name is CMSIS-SP-00300-r3p2-00rel1.zip. This file is from www.arm.com (need login).
+Original file name is CMSIS-SP-00300-r3p2-00rel1.zip. This file is downloaded from www.arm.com (need login).
