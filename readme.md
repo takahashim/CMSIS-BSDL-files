@@ -1,4 +1,6 @@
-= about these files
+# CMSIS files (BSD licence parts)
+
+## About these files
 
 From 'END USER LICENCE AGREEMENT FOR THE CORTEX MICROCONTROLLER SOFTWARE INTERFACE STANDARD (CMSIS) DELIVERABLES':
 
@@ -19,6 +21,6 @@ which is incorporated within or alongside the above components.
 
 So I repackage files in above directories.
 
-== original files
+## Original files
 
 Original file name is CMSIS-SP-00300-r3p2-00rel1.zip. This file is from www.arm.com (need login).
